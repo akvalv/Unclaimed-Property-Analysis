@@ -1,4 +1,4 @@
-# Unclaimed-Property-Analysis
+# Unclaimed Property Analysis
 
 This project aims to analyze unclaimed property data to assist financial and accounting institutions in auditing and reporting unclaimed assets in compliance with state laws.
 
